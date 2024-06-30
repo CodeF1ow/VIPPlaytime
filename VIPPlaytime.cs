@@ -8,7 +8,7 @@ using System.IO;
 
 namespace Oxide.Plugins
 {
-    [Info("VIP Playtime", "CodeFlow", "1.4.0")]
+    [Info("VIP Playtime", "CodeFlow", "1.4.1")]
     [Description("Otorga el grupo VIP a los jugadores después de cierto tiempo de juego.")]
     public class VIPPlaytime : CovalencePlugin
     {
